@@ -59,4 +59,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/th11n/th11n/output/snake.svg" alt="Snake animation" />
-###
