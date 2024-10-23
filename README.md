@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Dominik and<br><br>- 📚 I'm currently learning Django<br>- ⚡ I'm currently working on Skynotes</p>
+<p align="left">A passionate self-taught Front-end Developer</p>
 
 ###
 
